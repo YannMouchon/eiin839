@@ -51,11 +51,15 @@ namespace BasicServerHTTPlistener
                 Console.WriteLine("Listening for connections on " + s);
             }
 
+            Header h = new Header();
+
             while (true)
             {
                 // Note: The GetContext method blocks while waiting for a request.
                 HttpListenerContext context = listener.GetContext();
                 HttpListenerRequest request = context.Request;
+
+                h.GetHeader(request); // Retrieve headers to write them on the console
 
                 string documentContents;
                 using (Stream receiveStream = request.InputStream)
