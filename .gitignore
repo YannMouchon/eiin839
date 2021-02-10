@@ -1,5 +1,5 @@
 .vs/
-.vs/*
-*.cache
-*.pdb
-*.exe
+**/*.cache
+**/*.pdb
+**/*.exe
+**/*.suo
