@@ -5,7 +5,7 @@ using System.Net;
 using System.Text;
 using System.Web;
 
-namespace BasicServerHTTPlistener
+namespace BasicWebServer
 {
     internal class Program
     {
@@ -109,7 +109,7 @@ namespace BasicServerHTTPlistener
                 HttpListenerResponse response = context.Response;
 
                 // Construct a response.
-                string responseString = "<HTML><BODY> Hello world!</BODY></HTML>";
+                string responseString = new MyMethods().ReturnHtml(request.Url.Query);
                 byte[] buffer = System.Text.Encoding.UTF8.GetBytes(responseString);
                 // Get a response stream and write the response to it.
                 response.ContentLength64 = buffer.Length;
