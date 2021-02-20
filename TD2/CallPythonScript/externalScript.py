@@ -1,0 +1,1 @@
+﻿print("Hello I am called from the python script!")
