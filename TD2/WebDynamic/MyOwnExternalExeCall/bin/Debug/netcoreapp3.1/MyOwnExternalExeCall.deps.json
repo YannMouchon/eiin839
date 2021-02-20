@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyOwnExternalExeCall/1.0.0": {
+        "runtime": {
+          "MyOwnExternalExeCall.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyOwnExternalExeCall/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
