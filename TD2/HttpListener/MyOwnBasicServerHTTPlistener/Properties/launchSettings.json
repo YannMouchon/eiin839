@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "MyOwnBasicServerHTTPlistener": {
-      "commandName": "Project",
-      "commandLineArgs": "http://localhost:8080/"
-    }
-  }
-}
