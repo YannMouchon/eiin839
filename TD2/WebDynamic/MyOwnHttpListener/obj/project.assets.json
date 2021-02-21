@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yannm\\Documents\\SI4\\SOC\\eiin839\\TD2\\WebDynamic\\MyOwnBasicServerHTTPlistener\\MyOwnBasicServerHTTPlistener.csproj",
-      "projectName": "MyOwnBasicServerHTTPlistener",
-      "projectPath": "C:\\Users\\yannm\\Documents\\SI4\\SOC\\eiin839\\TD2\\WebDynamic\\MyOwnBasicServerHTTPlistener\\MyOwnBasicServerHTTPlistener.csproj",
+      "projectUniqueName": "C:\\Users\\yannm\\Documents\\SI4\\SOC\\eiin839\\TD2\\WebDynamic\\MyOwnHttpListener\\MyOwnHttpListener.csproj",
+      "projectName": "MyOwnHttpListener",
+      "projectPath": "C:\\Users\\yannm\\Documents\\SI4\\SOC\\eiin839\\TD2\\WebDynamic\\MyOwnHttpListener\\MyOwnHttpListener.csproj",
       "packagesPath": "C:\\Users\\yannm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yannm\\Documents\\SI4\\SOC\\eiin839\\TD2\\WebDynamic\\MyOwnBasicServerHTTPlistener\\obj\\",
+      "outputPath": "C:\\Users\\yannm\\Documents\\SI4\\SOC\\eiin839\\TD2\\WebDynamic\\MyOwnHttpListener\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

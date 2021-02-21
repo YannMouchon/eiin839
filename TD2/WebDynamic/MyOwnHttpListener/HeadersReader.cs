@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
-using System.Net.Http.Headers;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace MyOwnBasicServerHTTPlistener
+
+namespace MyOwnHttpListener
 {
-    class Header
+    class HeadersReader
     {
         public void GetHeader(HttpListenerRequest request)
         {
