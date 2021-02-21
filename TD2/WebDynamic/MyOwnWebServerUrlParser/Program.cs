@@ -76,7 +76,9 @@ namespace MyOwnWebServerUrlParser
                     // Obtain a response object.
                     HttpListenerResponse response = context.Response;
 
-                    // Construct a response.
+                    // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                    // Ici j'appelle la méthode de ma nouvelle classe créée. Elle retourne une reponse personnalisée en fonction des valeurs de param1 et param2 de l'URL
+                    // L'URL a la forme suivante: http://localhost:8080/quelquechose?param1=John&param2=Bobby
                     string responseString = new MyMethods().ReturnHtml(request.Url.Query);
 
                     byte[] buffer = System.Text.Encoding.UTF8.GetBytes(responseString);
