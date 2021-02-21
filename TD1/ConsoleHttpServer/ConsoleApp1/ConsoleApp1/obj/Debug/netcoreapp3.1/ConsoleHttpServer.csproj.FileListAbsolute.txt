@@ -1,0 +1,12 @@
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleHttpServer.AssemblyInfoInputs.cache
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleHttpServer.AssemblyInfo.cs
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleHttpServer.exe
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleHttpServer.deps.json
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleHttpServer.runtimeconfig.json
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleHttpServer.runtimeconfig.dev.json
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleHttpServer.dll
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleHttpServer.pdb
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleHttpServer.dll
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleHttpServer.pdb
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleHttpServer.genruntimeconfig.cache

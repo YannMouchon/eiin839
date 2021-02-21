@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleHttpServer": {
+      "commandName": "Project",
+      "commandLineArgs": "GET TextFile1.txt"
+    }
+  }
+}
