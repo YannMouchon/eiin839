@@ -3,7 +3,7 @@ using System.Diagnostics;
 
 namespace CallPythonScript
 {
-    class Program
+    class Program // Le but de ce programme est d'appeler un script d'un langage interprêté et qui n'a donc pas la possibilité de générer un executable.
     {
         static void Main(string[] args)
         {
