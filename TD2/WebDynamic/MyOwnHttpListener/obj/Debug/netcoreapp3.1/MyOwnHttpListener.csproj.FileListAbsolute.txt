@@ -1,0 +1,13 @@
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD2\WebDynamic\MyOwnHttpListener\bin\Debug\netcoreapp3.1\MyOwnHttpListener.exe
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD2\WebDynamic\MyOwnHttpListener\bin\Debug\netcoreapp3.1\MyOwnHttpListener.deps.json
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD2\WebDynamic\MyOwnHttpListener\bin\Debug\netcoreapp3.1\MyOwnHttpListener.runtimeconfig.json
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD2\WebDynamic\MyOwnHttpListener\bin\Debug\netcoreapp3.1\MyOwnHttpListener.runtimeconfig.dev.json
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD2\WebDynamic\MyOwnHttpListener\bin\Debug\netcoreapp3.1\MyOwnHttpListener.dll
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD2\WebDynamic\MyOwnHttpListener\bin\Debug\netcoreapp3.1\MyOwnHttpListener.pdb
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD2\WebDynamic\MyOwnHttpListener\obj\Debug\netcoreapp3.1\MyOwnHttpListener.csprojAssemblyReference.cache
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD2\WebDynamic\MyOwnHttpListener\obj\Debug\netcoreapp3.1\MyOwnHttpListener.AssemblyInfoInputs.cache
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD2\WebDynamic\MyOwnHttpListener\obj\Debug\netcoreapp3.1\MyOwnHttpListener.AssemblyInfo.cs
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD2\WebDynamic\MyOwnHttpListener\obj\Debug\netcoreapp3.1\MyOwnHttpListener.csproj.CoreCompileInputs.cache
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD2\WebDynamic\MyOwnHttpListener\obj\Debug\netcoreapp3.1\MyOwnHttpListener.dll
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD2\WebDynamic\MyOwnHttpListener\obj\Debug\netcoreapp3.1\MyOwnHttpListener.pdb
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD2\WebDynamic\MyOwnHttpListener\obj\Debug\netcoreapp3.1\MyOwnHttpListener.genruntimeconfig.cache

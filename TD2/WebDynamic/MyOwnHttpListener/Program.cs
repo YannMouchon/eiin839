@@ -1,10 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Net;
 using System.Text;
 
-namespace MyOwnBasicServerHTTPlistener
+namespace MyOwnHttpListener
 {
     class Program
     {
@@ -49,7 +48,7 @@ namespace MyOwnBasicServerHTTPlistener
                 Console.WriteLine("Listening for connections on " + s);
             }
 
-            Header h = new Header();
+            HeadersReader h = new HeadersReader();
 
             while (true)
             {
@@ -86,6 +85,5 @@ namespace MyOwnBasicServerHTTPlistener
             // Httplistener neither stop ...
             // listener.Stop();
         }
-    
     }
 }
