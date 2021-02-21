@@ -10,3 +10,4 @@ C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\Conso
 C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleHttpServer.dll
 C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleHttpServer.pdb
 C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleHttpServer.genruntimeconfig.cache
+C:\Users\yannm\Documents\SI4\SOC\eiin839\TD1\ConsoleHttpServer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleHttpServer.csprojAssemblyReference.cache

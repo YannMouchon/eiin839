@@ -8,7 +8,7 @@ namespace CallPythonScript
         static void Main(string[] args)
         {
             string arguments = "Bob John";
-            string fileName = @"C:\Users\yannm\Documents\SI4\SOC\eiin839\TD2\CallPythonScript\externalScript.py" + " " + arguments; // je passe mes arguments à la suite du path du script
+            string fileName = @"C:\Users\yannm\Documents\SI4\SOC\eiin839\TD2\WebDynamic\CallPythonScript\externalScript.py" + " " + arguments; // je passe mes arguments à la suite du path du script
             // Ici je donne le path de mon script Python
 
             Process p = new Process();
