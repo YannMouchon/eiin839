@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 .vs/
 **/*.cache
 **/*.pdb
 **/*.exe
 **/*.suo
-=======
 **/bin
 **/.vs
 **/obj
->>>>>>> upstream/main
+**/.env
