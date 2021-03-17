@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 function retrieveAllContracts() {
     var api_key = document.getElementById('api_key').value;
     var urlToReq = "https://api.jcdecaux.com/vls/v3/contracts?apiKey=" + api_key;
@@ -14,6 +13,3 @@ function contractsRetrieved() {
     var response = JSON.parse(this.responseText);
     console.log(response);
 }
-=======
-document.getElementById("workingTest").innerHTML="It works";
->>>>>>> upstream/main
