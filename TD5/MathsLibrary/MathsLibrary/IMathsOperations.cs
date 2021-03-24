@@ -9,15 +9,15 @@ namespace MathsLibrary
     {
 
         [OperationContract]
-        [WebInvoke(Method = "GET", UriTemplate = "Add?a={a}&b={b}", BodyStyle = WebMessageBodyStyle.Wrapped, ResponseFormat = WebMessageFormat.Json)]
+        //[WebInvoke(Method = "GET", UriTemplate = "Add?a={a}&b={b}", BodyStyle = WebMessageBodyStyle.Wrapped, ResponseFormat = WebMessageFormat.Json)]
         int Add(int a, int b);
 
         [OperationContract]
-        [WebInvoke(Method = "GET", UriTemplate = "Sub?a={a}&b={b}", BodyStyle = WebMessageBodyStyle.Wrapped, ResponseFormat = WebMessageFormat.Json)]
+        //[WebInvoke(Method = "GET", UriTemplate = "Sub?a={a}&b={b}", BodyStyle = WebMessageBodyStyle.Wrapped, ResponseFormat = WebMessageFormat.Json)]
         int Subtract(int a, int b);
 
         [OperationContract]
-        [WebInvoke(Method = "GET", UriTemplate = "Mult?a={a}&b={b}", BodyStyle = WebMessageBodyStyle.Wrapped, ResponseFormat = WebMessageFormat.Json)]
+        //[WebInvoke(Method = "GET", UriTemplate = "Mult?a={a}&b={b}", BodyStyle = WebMessageBodyStyle.Wrapped, ResponseFormat = WebMessageFormat.Json)]
         int Multiply(int a, int b);
 
     }
